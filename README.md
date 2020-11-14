@@ -7,31 +7,6 @@ Simple Android Library for image rounding
 
 
 
-## How to use 
-
-**Step 1.** Add the JitPack repository to your build file
-
-Add it in your root build.gradle at the end of repositories:
-
-```css
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-```
-
-**Step 2.** Add the dependency
-
-```css
-	dependencies {
-	        implementation 'com.github.smkazemi:RoundImageView:V1.0'
-	}
-```
-
-
-
 ## Sample
 
 ```xml
