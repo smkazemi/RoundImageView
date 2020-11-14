@@ -2,12 +2,10 @@ package ir.smr.kazemi.roundimageview
 
 import android.content.Context
 import android.graphics.Canvas
-import android.graphics.Paint
 import android.graphics.Path
 import android.graphics.RectF
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
-import androidx.core.content.ContextCompat
 import kotlin.math.min
 
 /**

@@ -2,8 +2,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="ir.smr.kazemi.roundimageview">
 
-    <application>
-        <activity android:name=".MainActivity"></activity>
-    </application>
-
 </manifest>
