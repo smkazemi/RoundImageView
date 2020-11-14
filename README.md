@@ -7,9 +7,7 @@ Simple Android Library for image rounding
 
 
 
-### How to use 
-
----
+## How to use 
 
 **Step 1.** Add the JitPack repository to your build file
 
@@ -34,9 +32,7 @@ Add it in your root build.gradle at the end of repositories:
 
 
 
-### Sample
-
----
+## Sample
 
 ```xml
 // circle Image View
@@ -60,9 +56,7 @@ Add it in your root build.gradle at the end of repositories:
 
 
 
-### XML Attributes
-
----
+## XML Attributes
 
 |  Name  |         Description          |
 | :----: | :--------------------------: |
